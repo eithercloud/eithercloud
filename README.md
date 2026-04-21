@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
+<h1 align="center">Hola 👋, soy Jaime Miguel Gómez Casas</h1>
 <h3 align="center">Estudiante de Ingeniería en Tecnología de Software | UANL FIME</h3>
 
 <p align="center">
@@ -85,6 +85,4 @@
 
 ---
 
-<p align="center">
-  <i>⭐ Si te gusta algún proyecto, no olvides darle una estrella!</i>
-</p>
+
